@@ -40,4 +40,4 @@ You can run this project locally on your computer by following these steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/precision-stopwatch.git
+  https://github.com/Saurabh14711/StopWatch-Web-App.git
